@@ -1,5 +1,5 @@
-# rpblackghost REPOSITORY
-# Versão Actual: 2.9
+# repoblackghost1 REPOSITORY
+# Versão Actual: 1.1
 
 Instruções para a adição deste repo:
 
@@ -8,11 +8,11 @@ Instruções para a adição deste repo:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://rpblackghost.github.io/</code> (Dar o nome de "rpblackghost Repo").</li>
+    <li>O endereço para a fonte é <code>https://repoblackghost1.github.io/</code> (Dar o nome de "repoblackghost1 Repo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "rpblackghost Repo", e instalar <a href="repository.rpblackghost-2.9.zip">repository.rpblackghost-2.9.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repoblackghost1 Repo", e instalar <a href="repository.repoblackghost1-1.1.zip">repository.repoblackghost1-1.1.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
-    <li>Selecionar o "rpblackghost Repository"</li>
+    <li>Selecionar o "repoblackghost1 Repository"</li>
     
                                        !!!Agora o resto fica á vossa escolha!!!
   </ul>
