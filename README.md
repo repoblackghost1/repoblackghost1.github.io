@@ -1,5 +1,5 @@
 # repoblackghost1 REPOSITORY
-# Versão Actual: 1.1
+# Versão Actual: 1.2
 
 Instruções para a adição deste repo:
 
@@ -10,7 +10,7 @@ Instruções para a adição deste repo:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://repoblackghost1.github.io/</code> (Dar o nome de "repoblackghost1 Repo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repoblackghost1 Repo", e instalar <a href="repository.repoblackghost1-1.1.zip">repository.repoblackghost1-1.1.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repoblackghost1 Repo", e instalar <a href="repository.repoblackghost1-1.2.zip">repository.repoblackghost1-1.2.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
     <li>Selecionar o "repoblackghost1 Repository"</li>
     
