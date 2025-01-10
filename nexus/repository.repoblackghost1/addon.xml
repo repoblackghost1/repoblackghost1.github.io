@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repoblackghost1" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR orange]BLACKGHOST[/COLOR][/B]" version="1.2" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]GHOST_B[/COLOR][/B]">
+<addon id="repository.repoblackghost1" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]" version="1.3" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]GHOST_B[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>  
   </requires>
-  <extension point="xbmc.addon.repository" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR orange]BLACKGHOST[/COLOR][/B]">
+  <extension point="xbmc.addon.repository" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]">
     <dir>
     <info compressed="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml</info>
     <checksum>https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml.md5</checksum>
