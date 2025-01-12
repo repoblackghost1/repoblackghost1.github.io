@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repoblackghost1" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]" version="1.3" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]GHOST_B[/COLOR][/B]">
+<addon id="repository.repoblackghost1" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]" version="1.4" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR orange]GHOST_B[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>  
   </requires>
@@ -30,8 +30,8 @@
   </dir>    
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR green]REPOSITORIO REPOBLACKGHOST[/B][/COLOR]</summary>
-    <description>[B][COLOR cyan]ESTE É O REPOSITÓRIO OFICIAL DO [B][COLOR red]REPO[/B][/COLOR][B][COLOR orange]BLACKGHOST[/B][/COLOR], [B]DESENVOLVIDO PARA OFERECER CONTEÚDOS EXCLUSIVOS COM QUALIDADE E PRATICIDADE. A DISTRIBUIÇÃO DESTE REPOSITÓRIO SEM AUTORIZAÇÃO PRÉVIA É ESTRITAMENTE PROIBIDA. APROVEITE UMA EXPERIÊNCIA PERSONALIZADA E OTIMIZADA PARA O SEU ENTRETENIMENTO.[/B][/COLOR]
+    <summary>[B][COLOR green]REPOSITORIO BLACKGHOST[/B][/COLOR]</summary>
+    <description>[B][COLOR orange]ESTE É O REPOSITÓRIO OFICIAL DO [B][COLOR red]REPO[/B][/COLOR][B][COLOR orange]BLACKGHOST[/B][/COLOR], [B]DESENVOLVIDO PARA OFERECER CONTEÚDOS EXCLUSIVOS COM QUALIDADE E PRATICIDADE. A DISTRIBUIÇÃO DESTE REPOSITÓRIO SEM AUTORIZAÇÃO PRÉVIA É ESTRITAMENTE PROIBIDA. APROVEITE UMA EXPERIÊNCIA PERSONALIZADA E OTIMIZADA PARA O SEU ENTRETENIMENTO.[/B][/COLOR]
 </description>
     <disclaimer></disclaimer>
     <platform>all</platform>
