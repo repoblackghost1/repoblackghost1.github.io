@@ -1,4 +1,4 @@
-# repoblackghost1 REPOSITORY
+# REPOSITÓRIO BLACKGHOST
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Imagens/topo2.png" alt="Imagem de topo" />
