@@ -1,9 +1,10 @@
 # repoblackghost1 REPOSITORY
-**Versão Atual**: `1.4`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Imagens/topo2.png" alt="Imagem de topo" />
 </p>
+
+<p align="center"><strong>Versão Atual</strong>: `1.4`</p>
 
 Instruções para a adição deste repositório no Kodi:
 
@@ -25,7 +26,8 @@ Instruções para a adição deste repositório no Kodi:
 
 ---
 
-**🎉 Agora o resto fica à vossa escolha!**
+**🎉 Agora, é com você!
+Explore e aproveite o que o repositório tem a oferecer.**
 
 ---
 
@@ -36,3 +38,5 @@ Instruções para a adição deste repositório no Kodi:
 ---
 
 **Enjoy!**
+
+ 
