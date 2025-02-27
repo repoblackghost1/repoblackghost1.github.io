@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Imagens/topo2.png" alt="Imagem de topo" />
 </p>
 
-<p align="center"><strong>Versão Atual</strong>: `1.5`</p>
+<p align="center"><strong>Versão Atual</strong>: `1.6</p>
 
 Instruções para a adição deste repositório no Kodi:
 
@@ -18,7 +18,7 @@ Instruções para a adição deste repositório no Kodi:
   <li>Em Addons, instalar de um ficheiro ZIP.  
     Quando perguntar pela localização, selecionar  
     "repoblackghost1 Repo" e instalar:  
-    <a href="repository.repoblackghost1-1.5.zip">repository.repoblackghost1-1.5.zip</a>.</li>
+    <a href="repository.repoblackghost1-1.6.zip">repository.repoblackghost1-1.6.zip</a>.</li>
   <li>Voltar para "Addons", mas desta vez, selecionar  
     "Instalar do repositório".</li>
   <li>Selecionar o "repoblackghost1 Repository".</li>

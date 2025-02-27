@@ -22,27 +22,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.freshstart" name="Fresh Start"
-	version="1.0.5" provider-name="tvaddons.ag">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Factory Restore Functionality for Kodi</summary>
-    <description lang="en">Easily Factory Restore your Kodi Configuration in One Simple Click! This tool will bring your Kodi back to its original installation state, deleting all customizations and add-ons you may have previously enabled, giving you a fresh start!</description>
-    <platform>all</platform>
-    <forum>http://forums.tvaddons.ag/forums/141-FRESH-START</forum>
-    <website>http://www.tvaddons.ag/</website>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.tvstreampro" version="4.0" name="[B][COLOR yellow]TVSTREAMPRO[/B][/COLOR] [B][COLOR lime][++][/B][/COLOR]" provider-name="[B][COLOR magenta]@gh000000000000st[/B][/COLOR]">
     <requires>
         <import addon="script.module.simplejson" />
@@ -232,39 +211,38 @@
     </extension>
 </addon>
 
-<addon id="repository.repoblackghost1" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]" version="1.5" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR orange]GHOST_B[/COLOR][/B]">
+<addon id="repository.repoblackghost1" name="[B][COLOR yellow]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST1[/COLOR][/B]" version="1.6" provider-name="[B][COLOR magenta]@gh000000000000st[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
-  <extension point="xbmc.addon.repository" name="[B][COLOR red]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST[/COLOR][/B]">
+  <extension point="xbmc.addon.repository" name="[B][COLOR yellow]REPOSITÓRIO[/COLOR][/B] [B][COLOR lime]BLACKGHOST1[/COLOR][/B]">
     <dir>
-    <info compressed="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml</info>
-    <checksum>https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master</datadir>
+    <info compressed="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master</datadir>
     <hashes>false</hashes>
 </dir>
   <dir minversion="19.9.9">
-      <info compressed="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/omega/addons.xml</info>
-      <checksum>https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/omega/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/omega</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/omega/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/omega/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/omega</datadir>
       <hashes>false</hashes>
   </dir>
 <dir minversion="19.9.9">
-      <info compressed="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/nexus/addons.xml</info>
-      <checksum>https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/nexus/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/nexus</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/nexus/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/nexus/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/nexus</datadir>
       <hashes>false</hashes>
   </dir>
   <dir minversion="19.0.0">
-      <info compressed="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/matrix/addons.xml</info>
-      <checksum>https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/matrix/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/repoblackghost1/repoblackghost1.github.io/master/matrix</datadir>
+      <info compressed="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/matrix/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/repoblackghost1/repoblackghost1.github.io/master/matrix</datadir>
       <hashes>false</hashes>
   </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR green]REPOSITORIO BLACKGHOST1[/B][/COLOR]</summary>
-    <description>[COLOR orange]REPOSITÓRIO OFICIAL [B][COLOR lime]BLACKGHOST1[/B][/COLOR]</description>
+    <summary>[B][COLOR yellow]REPOSITORIO BLACKGHOST1[/B][/COLOR]</summary>
     <disclaimer></disclaimer>
     <platform>all</platform>
     <assets>
@@ -292,41 +270,6 @@
     <assets>
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="resource.images.studios.white" name="Studio Icons - White" version="0.0.30" provider-name="Team Kodi">
-	<extension point="kodi.resource.images" compile="true" type="studios" />
-	<requires>
-		<import addon="kodi.resource" version="1.0.0"/>
-	</requires>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">White Studio Icons</summary>
-		<description lang="en">White Studio Icons</description>
-		<platform>all</platform>
-		<license>CC-BY-SA-3.0</license>
-		<assets>
-			<icon>icon.png</icon>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="resource.images.weathericons.default"
-       name="Weather Icons - Default"
-       version="1.1.9"
-       provider-name="Team Kodi">
-  <requires>
-    <import addon="kodi.resource" version="1.0.0"/>
-  </requires>
-  <extension point="kodi.resource.images"
-             type="weather" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Default Weather Icons</summary>
-    <description lang="en">Default set of Weather Icons shipped with Kodi</description>
-    <platform>all</platform>
-    <assets>
-      <icon>icon.png</icon>
     </assets>
   </extension>
 </addon>
@@ -673,27 +616,6 @@ v0.5.9 (2022-03-22)
     <source>https://github.com/benjaminp/six</source>
     <assets>
       <icon>resources/icon.png</icon>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="script.module.slyguy" name="SlyGuy Common" provider-name="SlyGuy" version="0.32.7">
-  <requires>
-    <import addon="repository.slyguy"/>
-  </requires>
-  <extension point="xbmc.service" library="service.py" start="login" />
-  <extension point="xbmc.python.pluginsource" library="default.py" />
-  <extension point="xbmc.python.module" library="resources/modules" />
-  <extension point="xbmc.addon.metadata">
-    <description lang="en">Common code used by all Slyguy add-ons</description>
-    <reuselanguageinvoker>true</reuselanguageinvoker>
-    <license></license>
-    <language></language>
-    <website></website>
-    <news></news>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>
