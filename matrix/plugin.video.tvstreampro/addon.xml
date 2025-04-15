@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvstreampro" version="4.3" name="[B][COLOR yellow]TVSTREAMPRO[/B][/COLOR] [B][COLOR lime][++][/B][/COLOR]" provider-name="[B][COLOR magenta]@gh000000000000st[/B][/COLOR]">
+<addon id="plugin.video.tvstreampro" version="4.4" name="[B][COLOR yellow]TVSTREAMPRO[/B][/COLOR] [B][COLOR lime][++][/B][/COLOR]" provider-name="[B][COLOR magenta]@gh000000000000st[/B][/COLOR]">
     <requires>
         <import addon="script.module.simplejson" />
         <import addon="script.module.six" />
